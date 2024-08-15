@@ -69,4 +69,5 @@ def main():
 
         # Actualizar
         todos_los_sprites.update()
+        }
 }
